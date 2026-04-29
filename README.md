@@ -60,8 +60,7 @@ This dashboard can help businesses:
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](dashboard.png)
-
+![Bike Sales Dashboard](Screenshot 2026-04-29 153849.png)
 ## Author
 
 Created by Lana Adil Raboei  
