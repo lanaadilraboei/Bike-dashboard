@@ -34,6 +34,9 @@ This dashboard helps businesses improve reporting, identify best-selling product
 ## Dashboard Preview
 
 ![Bike Sales Dashboard](./Screenshot%202026-04-29%20153849.png)
+![Bike Sales Dashboard](./لقطة الشاشة (161).png)
+![Bike Sales Dashboard](./لقطة الشاشة (162).png)
+
 
 ## Author
 
